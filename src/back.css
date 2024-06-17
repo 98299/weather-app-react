@@ -1,0 +1,11 @@
+.background-image {
+    background-image: url('https://cdn.vectorstock.com/i/1000v/07/81/seamless-weather-forecast-background-vector-2000781.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
